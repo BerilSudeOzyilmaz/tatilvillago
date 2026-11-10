@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /favoriler.html
+
+Sitemap: https://berilsudeozyilmaz.github.io/tatilvillago/sitemap.xml
